@@ -1,0 +1,10 @@
+Intro About DSA
+
+Data structure  +  Algorithm
+
+Data structure => A data strcture is [way of organization and storing data] in a computer so that it can be used efficiently.
+it defines the relationship between data elements and the operations that can be performed on the Data.
+
+RAM=> Random Access Memory
+
+
